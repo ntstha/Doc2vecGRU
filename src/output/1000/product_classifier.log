@@ -1,0 +1,28 @@
+INFO:root:Total data :25000
+INFO:root:Total data :25000
+INFO:root:Classification accuracy after 0 iteration :0.592400
+INFO:root:[[1381   37  572]
+ [ 465   49  478]
+ [ 444   42 1532]]
+INFO:root:---------------------End of classification 0 iteration-------------------------------
+INFO:root:Classification accuracy after 1 iteration :0.607600
+INFO:root:[[1431   33  541]
+ [ 438   63  483]
+ [ 433   34 1544]]
+INFO:root:---------------------End of classification 1 iteration-------------------------------
+INFO:root:Classification accuracy after 2 iteration :0.594000
+INFO:root:[[1407   42  530]
+ [ 493   48  489]
+ [ 447   29 1515]]
+INFO:root:---------------------End of classification 2 iteration-------------------------------
+INFO:root:Classification accuracy after 3 iteration :0.607200
+INFO:root:[[1473   27  544]
+ [ 456   47  485]
+ [ 431   21 1516]]
+INFO:root:---------------------End of classification 3 iteration-------------------------------
+INFO:root:Classification accuracy after 4 iteration :0.593000
+INFO:root:[[1389   30  563]
+ [ 498   39  469]
+ [ 437   38 1537]]
+INFO:root:---------------------End of classification 4 iteration-------------------------------
+INFO:root:Mean accuracy :0.5988

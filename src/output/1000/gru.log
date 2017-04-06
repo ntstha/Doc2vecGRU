@@ -1,0 +1,7 @@
+INFO:root:Training GRU with data of length 25000
+INFO:root:Epoch 0 took 82.4233460426 seconds
+INFO:root:Saving model after training for 2 epoch
+INFO:root:Model saved successfully.......
+INFO:root:Epoch 1 took 96.4208910465 seconds
+INFO:root:Saving model after training for 2 epoch
+INFO:root:Model saved successfully.......

@@ -1,0 +1,32 @@
+INFO:root:Total data :25000
+INFO:root:Dimensions of training arrays 300
+INFO:root:Total data :25000
+INFO:root:Dimensions of training arrays 300
+INFO:root:Classification accuracy after 0 iteration :0.599400
+INFO:root:[[1393   30  570]
+ [ 478   47  463]
+ [ 433   29 1557]]
+INFO:root:---------------------End of classification 0 iteration-------------------------------
+INFO:root:Classification accuracy after 1 iteration :0.597200
+INFO:root:[[1420   32  571]
+ [ 464   33  474]
+ [ 435   38 1533]]
+INFO:root:---------------------End of classification 1 iteration-------------------------------
+INFO:root:Classification accuracy after 2 iteration :0.598200
+INFO:root:[[1416   25  559]
+ [ 453   38  516]
+ [ 430   26 1537]]
+INFO:root:---------------------End of classification 2 iteration-------------------------------
+INFO:root:Classification accuracy after 3 iteration :0.615000
+INFO:root:[[1431   28  565]
+ [ 448   50  478]
+ [ 377   29 1594]]
+INFO:root:---------------------End of classification 3 iteration-------------------------------
+INFO:root:Classification accuracy after 4 iteration :0.586400
+INFO:root:[[1403   30  527]
+ [ 507   36  515]
+ [ 459   30 1493]]
+INFO:root:---------------------End of classification 4 iteration-------------------------------
+INFO:root:Mean accuracy :0.5992
+INFO:root:saving trained classifier......
+INFO:root:Classifier saved......

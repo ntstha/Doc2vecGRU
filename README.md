@@ -5,3 +5,5 @@ This project was done as part of my Master's in Computer Science thesis. The fir
 To check if learning product information helps in increasing classification accuracy, we use review vector alone and combination of review vector and product vector to train two SVM. 81.30% accuracy is achieved by review vector alone while with the combination of two vectors we get an accuracy of 81.88%.
  
 We also show a real life use of sentiment analysis. Our model will be used to identify and prevent issues of review and rating mismatch i.e giving incorrect sentiment rating to a review.
+
+Inspired from http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7515294

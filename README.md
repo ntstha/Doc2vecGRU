@@ -7,3 +7,7 @@ To check if learning product information helps in increasing classification accu
 We also show a real life use of sentiment analysis. Our model will be used to identify and prevent issues of review and rating mismatch i.e giving incorrect sentiment rating to a review.
 
 Inspired from http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7515294
+
+# How to run this project
+
+

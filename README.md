@@ -10,4 +10,5 @@ Inspired from http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7515294
 
 # How to run this project
 
+Download dataset from http://www.ilabsite.org/datacenter/communitynetworks/amazontotal.rar
 
